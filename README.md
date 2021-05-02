@@ -1,1 +1,1 @@
-# Puthon_basic
+# Python_basic
