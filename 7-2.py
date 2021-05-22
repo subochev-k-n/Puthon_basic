@@ -7,6 +7,7 @@ class Clothes(ABC):
         self.metrica = metrica
 
     @property
+    @abstractmethod
     def consumption(self):
         pass
 
